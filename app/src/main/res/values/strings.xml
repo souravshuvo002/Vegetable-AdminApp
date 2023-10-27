@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">AdminApp</string>
+    <string name="main_app_name">Sobjiwala</string>
+
+    <string name="currency_sign">৳</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="admin_user_email">sobjiwala.com.bd@gmail.com</string>
+    <string name="admin_user_email_password">TUF115348@swala</string>
+
+    <string name="main_admin_user_email">sobjiwala20@gmail.com</string>
+
+    <string-array name="unit_type">
+        <item>kilogram</item>
+        <item>gram</item>
+        <item>pieces</item>
+
+    </string-array>
+
+    <string-array name="coupon_type">
+        <item>Percentage</item>
+        <item>Fixed</item>
+    </string-array>
+
+    <string-array name="status_type">
+        <item>Active</item>
+        <item>Suspend</item>
+    </string-array>
+
+    <string-array name="time_slot">
+        <item>8:00 AM</item>
+        <item>9:00 AM</item>
+        <item>10:00 AM</item>
+        <item>11:00 AM</item>
+        <item>12:00 PM</item>
+        <item>1:00 PM</item>
+        <item>2:00 PM</item>
+        <item>3:00 PM</item>
+        <item>4:00 PM</item>
+        <item>5:00 PM</item>
+        <item>6:00 PM</item>
+        <item>7:00 PM</item>
+        <item>8:00 PM</item>
+        <item>9:00 PM</item>
+        <item>10:00 PM</item>
+    </string-array>
+
+    <string-array name="day_slot">
+        <item>Sat</item>
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+    </string-array>
+
+
+</resources>
